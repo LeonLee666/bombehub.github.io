@@ -30,12 +30,14 @@
     </item>
     
     <item>
-      <title>Liliang 李梁</title>
+      <title>Home Page</title>
       <link>https://bombehub.github.io/about/</link>
       <pubDate>Tue, 05 May 2020 21:05:33 +0530</pubDate>
       
       <guid>https://bombehub.github.io/about/</guid>
-      <description>&lt;p&gt;李梁，&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;李梁&#34;&gt;李梁&lt;/h2&gt;
+&lt;p&gt;Huawei Cloud BU&lt;/p&gt;
+&lt;p&gt;email: &lt;a href=&#34;mailto:liliangneu@126.com&#34;&gt;liliangneu@126.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
