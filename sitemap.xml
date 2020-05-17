@@ -39,13 +39,21 @@
     
         
         <url>
-            <loc>https://bombehub.github.io/categories/</loc>
+            <loc>https://bombehub.github.io/posts/</loc>
+            <lastmod>2020-05-05T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://bombehub.github.io/posts/</loc>
+            <loc>https://bombehub.github.io/posts/mmdb-talk/</loc>
+            <lastmod>2020-05-05T21:05:33+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bombehub.github.io/categories/</loc>
         </url>
         
     

@@ -40,5 +40,14 @@
 &lt;p&gt;email: &lt;a href=&#34;mailto:liliangneu@126.com&#34;&gt;liliangneu@126.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>内存数据库的资料汇总</title>
+      <link>https://bombehub.github.io/posts/mmdb-talk/</link>
+      <pubDate>Tue, 05 May 2020 21:05:33 +0530</pubDate>
+      
+      <guid>https://bombehub.github.io/posts/mmdb-talk/</guid>
+      <description>&lt;p&gt;围绕内存数据库知识点的总结&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
