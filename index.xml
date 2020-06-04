@@ -6,10 +6,19 @@
     <description>Recent content on Liliang&#39;s HomePage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 21:05:33 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:05:33 +0530</lastBuildDate>
     
 	<atom:link href="https://bombehub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>how to use hugo to build blog post</title>
+      <link>https://bombehub.github.io/posts/use-hugo/</link>
+      <pubDate>Thu, 04 Jun 2020 00:05:33 +0530</pubDate>
+      
+      <guid>https://bombehub.github.io/posts/use-hugo/</guid>
+      <description>&lt;p&gt;Introduction about how to use hugo building blog website.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>吴刚老师小组合影留念</title>
