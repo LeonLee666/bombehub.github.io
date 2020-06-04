@@ -6,10 +6,19 @@
     <description>Recent content on Liliang&#39;s HomePage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 00:06:33 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:33:33 +0530</lastBuildDate>
     
 	<atom:link href="https://bombehub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>go rpc</title>
+      <link>https://bombehub.github.io/posts/gorpc/</link>
+      <pubDate>Thu, 04 Jun 2020 00:33:33 +0530</pubDate>
+      
+      <guid>https://bombehub.github.io/posts/gorpc/</guid>
+      <description>&lt;p&gt;go语言原生rpc库的demo&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>数据库领域经典实现</title>
